@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Data Encryption Standard Algorithm Code Breaker
 
-You can use the [editor on GitHub](https://github.com/TylerGraham74/DLD-DES-Code-Breaker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About this project:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Data Encryption Standard algorithm is a method for encrypting and decrypting data. It was once widely used to protect data, but has since been replaced with the more complex Advanced Encyrption Standard algorithm. Click [here](https://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm) to learn more about the Data Encyrption Standard algorithm. 
 
-### Markdown
+The Data Encryption Standard is no longer in use due to the lack of the difficulty it takes to crack the key with a sequential number counter. This code serves as a general purpose code breaker applied to the DES algorithm. Given a known text and ciphertext, a counter that increments indefinitely can serve as a possible key that will increment up until the correct key is found. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This code was written in System Verilog to be uploaded to a Xilinx FPGA as the final project for [Dr. Stine's](https://experts.okstate.edu/james.stine) Digital Logic Design class at [Oklahoma State University](https://go.okstate.edu/). Go Pokes!
+ 
+![Cracker finding the correct key:]()
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TylerGraham74/DLD-DES-Code-Breaker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Xilinx FPGA Implementation:]()
