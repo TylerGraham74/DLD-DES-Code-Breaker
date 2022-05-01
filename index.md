@@ -17,5 +17,3 @@ Cracker finding the correct key:
 Xilinx FPGA Implementation:
 ![Xilinx FPGA Implementation](https://github.com/TylerGraham74/DLD-DES-Code-Breaker/blob/gh-pages/image5.jpg)
 
-![implementation](https://github.com/TylerGraham74/DLD-DES-Code-Breaker/blob/gh-pages/Screen%20Shot%202022-04-29%20at%202.16.34%20PM.png)
-
