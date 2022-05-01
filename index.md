@@ -1,6 +1,6 @@
 ## Data Encryption Standard Algorithm Code Breaker
 
-### Abbout this project:
+### About this project:
 
 The Data Encryption Standard algorithm is a method for encrypting and decrypting data. It was once widely used to protect data, but has since been replaced with the more complex Advanced Encyrption Standard algorithm. Click [here](https://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm) to learn more about the Data Encyrption Standard algorithm. 
 
@@ -12,8 +12,8 @@ Datapath diagram (Credit: Dr. Stine):
 ![Datapath diagram (Credit Dr. Stine)](https://github.com/TylerGraham74/DLD-DES-Code-Breaker/blob/gh-pages/Screen%20Shot%202022-04-29%20at%202.16.34%20PM.png?raw=true) 
  
 Cracker finding the correct key:
-![Cracker finding the correct key](https://github.com/TylerGraham74/DLD-DES-Code-Breaker/blob/gh-pages/image6.png)
+![Cracker finding the correct key](https://github.com/TylerGraham74/DLD-DES-Code-Breaker/blob/gh-pages/image6.png?raw=true)
 
 Xilinx FPGA Implementation:
-![Xilinx FPGA Implementation](https://github.com/TylerGraham74/DLD-DES-Code-Breaker/blob/gh-pages/image5.jpg)
+![Xilinx FPGA Implementation](https://github.com/TylerGraham74/DLD-DES-Code-Breaker/blob/gh-pages/image5.jpg?raw=true)
 
