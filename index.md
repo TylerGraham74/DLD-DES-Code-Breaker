@@ -1,6 +1,6 @@
 ## Data Encryption Standard Algorithm Code Breaker
 
-### About this project:
+### Abbout this project:
 
 The Data Encryption Standard algorithm is a method for encrypting and decrypting data. It was once widely used to protect data, but has since been replaced with the more complex Advanced Encyrption Standard algorithm. Click [here](https://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm) to learn more about the Data Encyrption Standard algorithm. 
 
